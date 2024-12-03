@@ -1,2 +1,2 @@
 # img_for_erseguang
-img hosting
+建个图床给写文和博客的朋友们用一下
